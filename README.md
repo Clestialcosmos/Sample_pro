@@ -1,6 +1,7 @@
-<h2> Parameter Optimization</h2>
+<h2 style="color:red;"> Parameter Optimization</h2>
 
 - ### **<a href="https://docs.google.com/presentation/d/e/2PACX-1vSOeguXJS_AfKpHdxS1aU91XQ6fN7ubknc80qwXzB1_XghMbnyuQ6Ftecd9vGKrow/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.**
 - ### Go the last slide for the assignment
 
-<style " color : red"><h1>The Tanishq Tomar</h1></style>
+<h1 style="color🍏;">The Tanishq Tomar</h1>
+
